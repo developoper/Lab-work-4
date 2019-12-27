@@ -1,0 +1,2 @@
+D:\Mono\Projects\Lab-work-4\1.4\bin\Release\1.4.exe
+D:\Mono\Projects\Lab-work-4\1.4\obj\x86\Release\1.4.exe

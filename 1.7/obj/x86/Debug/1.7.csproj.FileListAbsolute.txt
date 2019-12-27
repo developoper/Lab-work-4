@@ -1,0 +1,4 @@
+D:\Mono\Projects\Lab-work-4\1.7\bin\Debug\1.7.exe
+D:\Mono\Projects\Lab-work-4\1.7\bin\Debug\1.7.pdb
+D:\Mono\Projects\Lab-work-4\1.7\obj\x86\Debug\1.7.exe
+D:\Mono\Projects\Lab-work-4\1.7\obj\x86\Debug\1.7.pdb

@@ -1,0 +1,3 @@
+D:\Lab-work-4\3.1\bin\Release\3.1.exe
+D:\Lab-work-4\3.1\obj\x86\Release\3.1.csprojAssemblyReference.cache
+D:\Lab-work-4\3.1\obj\x86\Release\3.1.exe

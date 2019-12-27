@@ -1,0 +1,9 @@
+D:\Lab-work-4\3.1\bin\Debug\3.1.exe
+D:\Lab-work-4\3.1\bin\Debug\3.1.pdb
+D:\Lab-work-4\3.1\obj\x86\Debug\3.1.csprojAssemblyReference.cache
+D:\Lab-work-4\3.1\obj\x86\Debug\3.1.exe
+D:\Lab-work-4\3.1\obj\x86\Debug\3.1.pdb
+D:\Mono\Projects\Lab-work-4\3.1\bin\Debug\3.1.exe
+D:\Mono\Projects\Lab-work-4\3.1\bin\Debug\3.1.pdb
+D:\Mono\Projects\Lab-work-4\3.1\obj\x86\Debug\3.1.exe
+D:\Mono\Projects\Lab-work-4\3.1\obj\x86\Debug\3.1.pdb

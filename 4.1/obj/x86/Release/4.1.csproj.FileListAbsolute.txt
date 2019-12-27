@@ -1,0 +1,5 @@
+D:\Mono\Projects\Lab-work-4\4.1\bin\Release\4.1.exe
+D:\Mono\Projects\Lab-work-4\4.1\obj\x86\Release\4.1.exe
+D:\Lab-work-4\4.1\bin\Release\4.1.exe
+D:\Lab-work-4\4.1\obj\x86\Release\4.1.exe
+D:\Lab-work-4\4.1\obj\x86\Release\4.1.csprojAssemblyReference.cache
